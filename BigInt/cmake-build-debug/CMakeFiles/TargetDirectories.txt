@@ -1,0 +1,3 @@
+D:/Stuff/C_Programos/BigInt/cmake-build-debug/CMakeFiles/Ketvirta.dir
+D:/Stuff/C_Programos/BigInt/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Stuff/C_Programos/BigInt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
