@@ -1,0 +1,3 @@
+D:/Stuff/C_Programos2/Airport/cmake-build-debug/CMakeFiles/Aerouostas.dir
+D:/Stuff/C_Programos2/Airport/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Stuff/C_Programos2/Airport/cmake-build-debug/CMakeFiles/rebuild_cache.dir
